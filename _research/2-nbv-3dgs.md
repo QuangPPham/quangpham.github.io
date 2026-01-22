@@ -5,7 +5,7 @@ collection: research
 permalink: /research/nbv-3dgs
 ---
 
-Time affiliated: June 2025 - May 2026
+Time affiliated: June 2025 - August 2025
 
 Mechanical and Aerospace Engineering \\
 University of Florida
@@ -18,6 +18,7 @@ Underwater tasks such as structures inspection, hydrographic surveys, and aquati
 
 Responsibilities
 ======
-UNDER CONSTRUCTION...
+- Surveyed active perception literature to devise a potential solution.
+- Wrote code to collect data on simulation and hardware.
 
 ![alt text](../images/favicon.ico)
